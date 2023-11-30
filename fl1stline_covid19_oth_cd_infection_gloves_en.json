@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "90c9f180-a28e-9e3a-ccbe-0903b642a7eb",
+    "title": "Availability of gloves suitable for use in case of infections in first line health care providers during the COVID-19 pandemic (2020)",
+    "description": "General healthcare in Belgium includes two categories of hospitals: general & psychiatric hospitals. Each of these healthcare institutions has a specific healthcare offering, its own infrastructure, its own operation and its own financing mechanisms. Within the Data and Policy Information service of the FPS Public Health, the contact, address and recognition details of these institutions are maintained and systematically updated. The overviews show practical and recognized data per region about each institution per campus (address, telephone numbers, number of beds, medical services and medical-technical services, care programs, functions, etc.).",
+    "publisher": "Consortium Firstline data",
+    "downloadURL": "https://github.com/healthfacts/distributions_fl1stline_covid19/blob/main/fl1stline_covid19_oth_cd_infection_gloves_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fl1stline_covid19/blob/main/fl1stline_covid19_oth_cd_infection_gloves_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 216,
+    "modificationDate": "2023-11-24 08:23:36",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://docs.healthdata.be/HDBP0292",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "a6cd7b63-004a-4bff-9a6b-21f14d8326a5",
+        "title": "COVID-19 Barometer: 1st line health care provider (general)",
+        "landingPage": "https://docs.healthdata.be/HDBP0292",
+        "contactPoint": "Consortium Eerstelijnsdata, Kapucijnenvoer 7 bus 7001 blok h, 3000 Leuven",
+        "contactPointEmail": "not available"
+    }
+}

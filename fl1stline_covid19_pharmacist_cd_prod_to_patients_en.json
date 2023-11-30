@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "04764dbf-c735-142c-824c-3b00fb4673de",
+    "title": "Products available for patients in pharmacies during the COVID-19 pandemic (2020)",
+    "description": "General healthcare in Belgium includes two categories of hospitals: general & psychiatric hospitals. Each of these healthcare institutions has a specific healthcare offering, its own infrastructure, its own operation and its own financing mechanisms. Within the Data and Policy Information service of the FPS Public Health, the contact, address and recognition details of these institutions are maintained and systematically updated. The overviews show practical and recognized data per region about each institution per campus (address, telephone numbers, number of beds, medical services and medical-technical services, care programs, functions, etc.).",
+    "publisher": "Consortium Firstline data",
+    "downloadURL": "https://github.com/healthfacts/distributions_fl1stline_covid19/blob/main/fl1stline_covid19_pharmacist_cd_prod_to_patients_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fl1stline_covid19/blob/main/fl1stline_covid19_pharmacist_cd_prod_to_patients_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 31344,
+    "modificationDate": "2023-11-24 08:23:36",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://docs.healthdata.be/HDBP0297",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "ca720802-caa8-4dd0-a9a4-2202b783d866",
+        "title": "COVID-19 Barometer: Pharmacists",
+        "landingPage": "https://docs.healthdata.be/HDBP0297",
+        "contactPoint": "Consortium Eerstelijnsdata, Kapucijnenvoer 7 bus 7001 blok h, 3000 Leuven",
+        "contactPointEmail": "not available"
+    }
+}
