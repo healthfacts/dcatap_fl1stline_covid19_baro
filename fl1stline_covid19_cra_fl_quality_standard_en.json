@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "aedb9875-884e-a29b-c39f-936756886e14",
+    "title": "Execution of tasks carried out according to the expected standard in coordinating and advising physicians during the COVID-19 pandemic (2020)",
+    "description": "General healthcare in Belgium includes two categories of hospitals: general & psychiatric hospitals. Each of these healthcare institutions has a specific healthcare offering, its own infrastructure, its own operation and its own financing mechanisms. Within the Data and Policy Information service of the FPS Public Health, the contact, address and recognition details of these institutions are maintained and systematically updated. The overviews show practical and recognized data per region about each institution per campus (address, telephone numbers, number of beds, medical services and medical-technical services, care programs, functions, etc.).",
+    "publisher": "Consortium Firstline data",
+    "downloadURL": "https://github.com/healthfacts/distributions_fl1stline_covid19/blob/main/fl1stline_covid19_cra_fl_quality_standard_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fl1stline_covid19/blob/main/fl1stline_covid19_cra_fl_quality_standard_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 176496,
+    "modificationDate": "2023-11-24 08:23:36",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://docs.healthdata.be/HDBP0293",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "a1679922-bc79-4d8c-b9ec-600c6fe3d42f",
+        "title": "COVID-19 Barometer: Coordinating and Advising Physicians",
+        "landingPage": "https://docs.healthdata.be/HDBP0293",
+        "contactPoint": "Consortium Eerstelijnsdata, Kapucijnenvoer 7 bus 7001 blok h, 3000 Leuven",
+        "contactPointEmail": "not available"
+    }
+}
